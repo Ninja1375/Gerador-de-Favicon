@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Favicon</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <h1>Gerador de Favicon</h1>
+
+  <div id="upload-container">
+    <label for="imageInput" id="uploadButton">
+      <i class="fas fa-upload"></i> Carregar Imagem
+    </label>
+    <input type="file" id="imageInput" accept="image/*">
+  </div>
+
+  <div id="canvas-container">
+    <canvas id="canvas" width="32" height="32"></canvas>
+  </div>
+  
+  <button id="exportButton">Baixar como .PNG</button>
+
+  <footer>
+    <p>&lt;/&gt; Feito com <span class="heart">❤</span> por <a href="https://ninja1375.github.io/Meu-Portfolio/" target="_blank">Antônio Nascimento</a> &lt;/&gt;</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
