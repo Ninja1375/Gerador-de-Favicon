@@ -10,6 +10,10 @@ Este projeto é um **gerador de favicon** online simples e intuitivo, desenvolvi
 
 **Design Responsivo:** O gerador é totalmente responsivo, adaptando-se a qualquer tamanho de tela. Ele foi otimizado para ser acessível tanto em dispositivos móveis quanto em desktops.
 
-**Rodapé Personalizado:** Um rodapé fixo na parte inferior da página exibe a mensagem "Feito com ❤ por Matheus", com o nome "Matheus" vinculado ao portfólio do desenvolvedor. Isso adiciona um toque pessoal ao projeto, permitindo que o usuário explore o trabalho do desenvolvedor.
+**Rodapé Personalizado:** Um rodapé fixo na parte inferior da página exibe a mensagem "Feito com ❤ por Antônio Nascimento", este nome é vinculado ao portfólio do desenvolvedor. Isso adiciona um toque pessoal ao projeto, permitindo que o usuário explore o trabalho do desenvolvedor.
 
 Este gerador é ideal para desenvolvedores que desejam criar um favicon personalizado para seu site de maneira rápida e prática, sem a necessidade de softwares adicionais ou extensões de navegador.
+
+## Código Aberto ##
+
+Este projeto é de código aberto e foi criado com o intuito de incentivar a aprendizagem e colaboração. Qualquer pessoa pode clonar, modificar, bifurcar, ou adaptar este gerador de favicon para seus próprios projetos ou para contribuir com melhorias. É um recurso excelente para desenvolvedores que desejam explorar e construir ferramentas simples e úteis para a web.
