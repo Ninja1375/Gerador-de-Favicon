@@ -1,6 +1,6 @@
 **Veja o projeto ao vivo:**
 
-**[Gerador de Favicon](gghgg)**
+**[Gerador de Favicon](https://ninja1375.github.io/Gerador-de-Favicon/)**
 
 Este projeto é um **gerador de favicon** online simples e intuitivo, desenvolvido com HTML, CSS e JavaScript, que permite aos usuários criarem seus próprios ícones de site, conhecidos como favicons, a partir de uma imagem. O aplicativo foi projetado com uma interface moderna e responsiva, oferecendo uma experiência de uso agradável em qualquer dispositivo, inclusive em navegadores móveis como o Chrome.
 
